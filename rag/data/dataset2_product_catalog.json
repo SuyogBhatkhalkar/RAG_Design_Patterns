@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "text": "Gaming laptop with RTX 4080 GPU, 32GB RAM.",
+    "metadata": {
+      "brand": "Dell",
+      "category": "Laptop",
+      "price": 1800
+    }
+  },
+  {
+    "id": 2,
+    "text": "Business ultrabook lightweight laptop 16GB RAM.",
+    "metadata": {
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "price": 1200
+    }
+  },
+  {
+    "id": 3,
+    "text": "Wireless noise cancelling headphones.",
+    "metadata": {
+      "brand": "Sony",
+      "category": "Audio",
+      "price": 350
+    }
+  },
+  {
+    "id": 4,
+    "text": "Mechanical RGB gaming keyboard.",
+    "metadata": {
+      "brand": "Logitech",
+      "category": "Accessories",
+      "price": 140
+    }
+  }
+]

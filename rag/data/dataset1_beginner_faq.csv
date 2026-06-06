@@ -1,0 +1,6 @@
+id,text,category,department
+1,Employees can work remotely up to 3 days per week.,HR,Policy
+2,Medical insurance covers spouse and children.,Benefits,HR
+3,Python APIs should use FastAPI framework.,Engineering,Tech
+4,Leave approval requires manager authorization.,HR,Policy
+5,Cloud infrastructure uses Kubernetes on AWS.,Infrastructure,Tech

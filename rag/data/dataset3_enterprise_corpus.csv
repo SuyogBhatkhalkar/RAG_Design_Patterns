@@ -1,0 +1,5 @@
+id,text,doc,year,domain
+1,Revenue grew by 22% in 2025 driven by cloud services.,AnnualReport,2025.0,
+2,Customer data encryption uses AES-256 standards.,SecurityPolicy,,Cyber
+3,Microservices communicate through Kafka messaging.,ArchitectureGuide,,Engineering
+4,GDPR requires explicit user consent for personal data.,Compliance,,Legal

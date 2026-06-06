@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "text": "Revenue grew by 22% in 2025 driven by cloud services.",
+    "metadata": {
+      "doc": "AnnualReport",
+      "year": 2025
+    }
+  },
+  {
+    "id": 2,
+    "text": "Customer data encryption uses AES-256 standards.",
+    "metadata": {
+      "doc": "SecurityPolicy",
+      "domain": "Cyber"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Microservices communicate through Kafka messaging.",
+    "metadata": {
+      "doc": "ArchitectureGuide",
+      "domain": "Engineering"
+    }
+  },
+  {
+    "id": 4,
+    "text": "GDPR requires explicit user consent for personal data.",
+    "metadata": {
+      "doc": "Compliance",
+      "domain": "Legal"
+    }
+  }
+]

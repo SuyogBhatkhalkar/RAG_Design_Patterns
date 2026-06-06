@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "text": "Employees can work remotely up to 3 days per week.",
+    "metadata": {
+      "category": "HR",
+      "department": "Policy"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Medical insurance covers spouse and children.",
+    "metadata": {
+      "category": "Benefits",
+      "department": "HR"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Python APIs should use FastAPI framework.",
+    "metadata": {
+      "category": "Engineering",
+      "department": "Tech"
+    }
+  },
+  {
+    "id": 4,
+    "text": "Leave approval requires manager authorization.",
+    "metadata": {
+      "category": "HR",
+      "department": "Policy"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Cloud infrastructure uses Kubernetes on AWS.",
+    "metadata": {
+      "category": "Infrastructure",
+      "department": "Tech"
+    }
+  }
+]

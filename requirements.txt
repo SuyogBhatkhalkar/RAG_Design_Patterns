@@ -1,0 +1,11 @@
+numpy
+fastapi[all]
+uvicorn
+pydantic
+requests
+langchain
+langchain-core
+sentence-transformers
+langchain-google-genai
+pillow
+google-genai
